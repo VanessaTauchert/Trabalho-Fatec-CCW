@@ -1,0 +1,41 @@
+html, body{
+    height: 100%;
+    overflow-x: hidden;
+    font-family: 'Roboto', sans-serif;
+}
+
+h5{
+    color: #3C3A3A;
+    margin-bottom: 50px;
+}
+
+h3{
+    color: #c01450;
+    margin-bottom: 20px;
+}
+
+
+#banner{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+h2{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+#clique{
+    margin-bottom: 200px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+#principal{
+    margin-top: 40px;
+}
